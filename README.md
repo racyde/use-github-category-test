@@ -27,7 +27,19 @@
   - Done: 끝난 일
 
 ## Milestone
-이정표 역할
+Milestone 은 이정표 역할을 하며, 태스크 카드(Issue)들을 그룹화하는데 사용
+
+> Milestone에 연결된 태스크 카드(Issue)가 종료되면 Milestone마다 진행 상황이 업데이트되는 것을 볼 수 있습니다. 
+> 이 Milestone 기능을 통해 연관된 이슈의 추적과 진행 상황을 한눈에 파악할 수 있는 장점이 있습니다. 
+> Sprint 나 단계별 구현과 관련한 유사 이슈들을 하나하나 추적하며 살펴보기보다 Milestone을 이용해 간편히 관리합시다.
+
+- `Issue` 탭 ->  `Labels` 버튼 오른쪽에 있는 `Milestones` 클릭
+- `Create a Milestone` 또는 `New milestone` 하여 이정표를 작성
+- `Title` 에는 원하는 이정표 이름 쓰거나 혹은 진행 중인 sprint의 이름을 쓰는 것을 추천
+- `Due date`는 Milestone의 마지막 날을 의미(말 그대로 마감일)
+- `Description`에 자유롭게 작성 후에 `Create milestone` 을 누르면 생성 완료
+
+> 계획에 알맞은 갯수만큼 Milestone을 만들어서 프로젝트를 진행하는 것을 추천!
 
 ## 태스크 카드 활용
 - Issue 카테고리에서 원하는 탬플릿(태스크 카드)로 작성 후에 이를 해당 프로젝트에서 드래그 앤 드랍하면 프로젝트에 적재 가능
